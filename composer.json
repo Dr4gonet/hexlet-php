@@ -1,0 +1,15 @@
+{
+    "name": "dr4gonet/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Dr4gonet\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dr4gonet",
+            "email": "dr4gonet@yandex.ru"
+        }
+    ],
+    "require": {}
+}
