@@ -11,5 +11,7 @@
             "email": "dr4gonet@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
