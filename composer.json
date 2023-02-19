@@ -1,9 +1,10 @@
 {
     "name": "dr4gonet/hexlet-php",
     "autoload": {
-        "psr-4": {
-            "Dr4gonet\\HexletPhp\\": "src/"
-        }
+    "files": [
+             "src/Runner.php"
+    ]
+
     },
     "authors": [
         {
